@@ -2,7 +2,6 @@
 layout: page
 title: About
 ---
-<center>![qyou](/images/qyou.jpg)</center>
 
 ##### Thi is Me #####
 
