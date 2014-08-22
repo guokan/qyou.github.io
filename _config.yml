@@ -10,8 +10,8 @@ links:
   - name:         About
     url:          /about
    - name:        Blog
-    url:          /blog
-    #external:     true
+    url:          /about
+    external:     true
   - name:         Email
     url:          mailto:qyou.casia@gmail.com
     external:     true
