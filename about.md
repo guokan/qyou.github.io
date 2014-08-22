@@ -2,11 +2,7 @@
 layout: page
 title: About
 ---
-Download the Chinese version£º[qyou's Chinese CV](/upload/qyou_resume_chn.pdf)
-Download the English version: [qyou's English CV](/upload/qyou_resume_eng.pdf)
-
--------------------------------------------------
-<center>![qyou](/upload/qyou.jpg)</center>
+<center>![qyou](/images/qyou.jpg)</center>
 
 ##### Thi is Me #####
 
