@@ -11,7 +11,7 @@ I am a aficionado in computer science and technology, machine learning and data 
 -------------------------------------------------
 ##### Education #####
 
-- I am a PhD Candidate of Applied Computer Science and Technology National Laboratory of Pattern Recognition, Institute of Automation, Chinese Acedemy of Sciences form 2009 to Present.
+- I am a PhD Candidate of Applied Computer Science and Technology in National Laboratory of Pattern Recognition, Institute of Automation, Chinese Acedemy of Sciences form 2009 to Present.
 
 - I studied and acquired BE of Automation and Information Technology in School of Automation Science and Electric Engineering in Beihang University from 2005 to 2009.
 
