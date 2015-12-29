@@ -69,3 +69,5 @@ I am a aficionado in computer science and technology, machine learning and data 
 ###### Publications ######
 
 - Q. You; W. Hu; O. Wu;  H. Zuo. A Unified Fusion Framework for Time-related Rank in Threaded Discussion Communities. In PAKDD Workshop of Social Networks 2014.
+
+- Q. You; W. Hu; O. Wu. Influence Maximization in Human-Intervened Social Networks. Proceedings of the 1st International Worshop on Social Influence Analysis co-located with 24th International Joint Conference on Artificial Intelligence 2015. [http://ceur-ws-org/Vol-1398]([http://ceur-ws-org/Vol-1398),pp.9-14, 2015.
