@@ -78,7 +78,7 @@ I am a aficionado in computer science and technology, machine learning and data 
 
 - **Q. You**, O. Wu, G. Luo and W. Hu. A Probabilistic Matrix Factorization Method for Link Sign Prediction in Social Networks. Proceedings of the 12th International Conference on Machine Learning and Data Mining (MLDM) 2016.
 
-- O. Wu, **Q. You, F. Xia, L. Ma, and W. Hu. Listwise Learning to Rank from Crowds. ACM Transactions on Knowledge Discovery from Data (TKDD) 2016.
+- O. Wu, **Q. You**, F. Xia, L. Ma, and W. Hu. Listwise Learning to Rank from Crowds. ACM Transactions on Knowledge Discovery from Data (TKDD) 2016.
 
 
 
