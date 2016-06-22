@@ -72,7 +72,13 @@ I am a aficionado in computer science and technology, machine learning and data 
 
 - **Q. You**; W. Hu; O. Wu. Influence Maximization in Human-Intervened Social Networks. Proceedings of the 1st International Workshop on Social Influence Analysis co-located with 24th International Joint Conference on Artificial Intelligence 2015. [http://ceur-ws-org/Vol-1398]([http://ceur-ws-org/Vol-1398),pp.9-14, 2015.
 
-- O. Wu; **Q. You**; X. Mao; F. Xia; F. Yuan. Listwise Learning to Rank by Exploring Structure of Objects. IEEE Transaction on Knowledge and Data Engineering (TKDE) 2016.
+- O. Wu; **Q. You (Joint first author)**; X. Mao; F. Xia; F. Yuan. Listwise Learning to Rank by Exploring Structure of Objects. IEEE Transaction on Knowledge and Data Engineering (TKDE) 2016.
+
+- **Q. You**, O. Wu, G. Luo and W. Hu. Metadata-Based Clustered Multi-Task Learning for Thread Mining in Web Communities. Proceedings of the 12th International Conference on Machine Learning and Data Mining (MLDM) 2016.
+
+- **Q. You**, O. Wu, G. Luo and W. Hu. A Probabilistic Matrix Factorization Method for Link Sign Prediction in Social Networks. Proceedings of the 12th International Conference on Machine Learning and Data Mining (MLDM) 2016.
+
+- O. Wu, **Q. You, F. Xia, L. Ma, and W. Hu. Listwise Learning to Rank from Crowds. ACM Transactions on Knowledge Discovery from Data (TKDD) 2016.
 
 
 
